@@ -9,7 +9,7 @@
 
 2、请自学：https://blog.csdn.net/waple_0820/article/details/70049953
 
-请尝试用大家学过的数据序列，生成一个CSV文件，在Excel中打开的结果是：
+请尝试用大家学过的数据序列，生成一个CSV文件，在Excel中打开的结果是：  
 ![](https://raw.githubusercontent.com/zhangwenjunpython/picture/master/第六周作业图片.png)
 
 
