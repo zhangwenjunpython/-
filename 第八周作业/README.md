@@ -15,7 +15,11 @@
 定义一个函数，可以描述温度的最大值和最小值。提示：这个函数的周期是一年。提示：包含时间偏移。  
 用scipy.optimize.curve_fit()拟合这个函数与数据。  
 绘制结果。这个拟合合理吗？如果不合理，为什么？  
-最低温度和最高温度的时间偏移是否与拟合一样精确？  
+最低温度和最高温度的时间偏移是否与拟合一样精确？   
+第一个图是实验1的拟合情况  
 
 ![](https://github.com/zhangwenjunpython/picture/blob/master/Figure_1.png)  
-![](https://github.com/zhangwenjunpython/picture/blob/master/Figure_2.png)
+  
+第二个图是实验2的拟合情况  
+  
+![](https://github.com/zhangwenjunpython/picture/blob/master/Figure_2.png)  
