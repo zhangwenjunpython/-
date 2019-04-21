@@ -17,5 +17,5 @@
 绘制结果。这个拟合合理吗？如果不合理，为什么？  
 最低温度和最高温度的时间偏移是否与拟合一样精确？  
 
-![](https://github.com/zhangwenjunpython/picture/Figure_1.png)  
-![](https://github.com/zhangwenjunpython/picture/Figure_2.png)
+![](https://github.com/zhangwenjunpython/picture.git/Figure_1.png)  
+![](https://github.com/zhangwenjunpython/picture.git/Figure_2.png)
