@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #编写人：张文君，编写时间：2019年4月21日
 #函数功能，对实验的数据进行了拟合
+#推送上去
 import numpy as np
 from scipy.optimize import curve_fit
 import pylab as pl
@@ -26,3 +27,4 @@ pl.plot(x0, y0, label=u"true_data")
 pl.plot(x, func(x,*data), label=u"fit_data")
 pl.legend()
 pl.show()
+
