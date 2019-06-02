@@ -1,3 +1,6 @@
+#编写人：张文君，编写时间：2019年5月25号
+#代码功能：给出几种分类器的分类效果，显示准确率
+
 import numpy as np
 import scipy as sp
 import matplotlib
