@@ -1,3 +1,6 @@
+#编写人：张文君，编写时间5月28号
+#对数据进行预处理，pca提取99的特征值，画出散点图。分析数据空间分布的大概
+
 import numpy as np
 import scipy as sp
 import matplotlib
