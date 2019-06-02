@@ -1,3 +1,7 @@
+#网络老哥的关于手写体的demo，具体地址如下https://blog.csdn.net/qq_34258054/article/details/80394669
+#写的非常好，主要的程序是借鉴他的。
+
+
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
  
