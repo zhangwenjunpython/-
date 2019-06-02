@@ -1,5 +1,5 @@
 #编写人：张文君，时间：2019年5月25号
-
+#代码功能：实现利用CNN对数据进行分类，并且给出准确率的预测
 import numpy as np
 import scipy as sp
 import matplotlib
